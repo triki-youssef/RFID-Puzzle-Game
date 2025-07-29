@@ -77,7 +77,7 @@ This project is an interactive RFID-based puzzle game using 4 Wemos D1 Mini boar
 
 - Central sends reset commands to clients
 
-<h2/📁 Files Provided : </h2>
+<h2>📁 Files Provided : </h2>
 
 
 - central_code.ino — Code for the central board with RFID reader and reset logic
